@@ -1,2 +1,2 @@
-# TFA105-PetWeb-Source
-The TFA105 pet web group for code placement.
+# TFA105-PetWeb-Document
+The TFA105 pet web group for document placement.
